@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlottemllt, I am a Data Scientist.
-- 🇫🇷  I'm from France (born in Nice, studied in Bordeaux, live in Toulouse).
+-  🇫🇷  I'm from France (born in Nice, studied in Bordeaux, live in Toulouse).
 - 👀 I’m always interested in learning more about Data Science and Artificial Intelligence.
 - 🐎 If I'm not coding, I'm probably horseriding.
 - 📫 How to reach me : charlottemillet04@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/charlotte-millet-0456a5150/)
